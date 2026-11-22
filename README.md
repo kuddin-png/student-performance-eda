@@ -10,6 +10,7 @@ This repository contains a reproducible, **EDA-only** investigation of the suppl
 - `student.txt` — supplied data dictionary.
 - `student_performance_eda.pdf` — PDF printout of the executed notebook.
 The notebook includes 12 visualizations, with charts embedded directly in the notebook outputs. The HTML report also includes the visualizations.
+- `student_performance_eda.html` — standalone HTML report with interactive notebook outputs.
 
 ## Run locally
 
